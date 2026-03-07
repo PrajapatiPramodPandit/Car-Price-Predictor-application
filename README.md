@@ -36,11 +36,11 @@ The system uses a trained <b>Linear Regression Machine Learning model</b> to pre
 <h2>🖼 Project Preview</h2>
 
 <p align="center">
-<img src="demo.png" width="700">
+<img src="https://github.com/PrajapatiPramodPandit/Car-Price-Predictor-application/blob/main/assets/Screenshot%202026-03-07%20175126.png" width="700">
 </p>
 
 <p align="center">
-<img src="predict.png" width="700">
+<img src="https://github.com/PrajapatiPramodPandit/Car-Price-Predictor-application/blob/main/assets/Screenshot%202026-03-07%20175449.png" width="700">
 </p>
 
 ---

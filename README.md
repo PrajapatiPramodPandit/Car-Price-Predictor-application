@@ -1,5 +1,7 @@
 <h1 align="center">🚗 Car Price Predictor Application</h1>
-
+<p align="center">
+<img src="https://github.com/PrajapatiPramodPandit/Car-Price-Predictor-application/blob/main/assets/car_price_prediction_icon.png" width="300">
+</p>
 <p align="center">
 A Machine Learning Web Application that predicts the price of a used car based on different features.
 </p>
